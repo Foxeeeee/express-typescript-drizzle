@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1711215807710,
+      "tag": "0000_gigantic_the_spike",
+      "breakpoints": true
+    }
+  ]
+}
